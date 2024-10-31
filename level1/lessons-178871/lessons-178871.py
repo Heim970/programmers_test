@@ -1,6 +1,6 @@
-// 코딩테스트 연습 > 연습문제 > 달리기 경주
-// 2024-10-31
-// with ChatGPT
+# 코딩테스트 연습 > 연습문제 > 달리기 경주
+# 2024-10-31
+# with ChatGPT
 
 def solution(players, callings):
     rank = {name: i for i, name in enumerate(players)}
